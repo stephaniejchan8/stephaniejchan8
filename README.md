@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @stephaniejchan8
-- 👀 I’m interested in learning how to code.
+- 👋 Hi, I’m Stephanie.
+- 👀 I’m learning how to code.
 - 🌱 I’m currently learning HTML, CSS, JS, C.
