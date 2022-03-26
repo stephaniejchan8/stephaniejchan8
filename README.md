@@ -1,3 +1,5 @@
 - 👋 Hi, I’m Stephanie.
-- 👀 I’m learning how to code.
-- 🌱 I’m currently learning HTML, CSS, JS, C.
+- 👀 I love solving problems with code and aim to produce efficient code.
+- 🌱 I code in HTML, CSS, JS, C.
+- I am excited about expanding my developer skills.
+- I also have been learning Salesforce development (Apex and Lightning Web Components).
