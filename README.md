@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stephanie.
-- 👀 I love solving problems with code and aim to produce efficient code.
-- 🌱 I code in HTML, CSS, JS, C.
+- 👀 I love solving problems with code and aim to keep improving my code.
+- 🌱 I code in React, JS, C, HTML, CSS.
 - I am excited about expanding my developer skills.
-- I also have been learning Salesforce development (Apex and Lightning Web Components).
+- I also have been learning Salesforce development (Apex, SOQL and Lightning Web Components).
