@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Stephanie.
-- 👀 I love solving problems with code and aim to keep improving my code.
-- 🌱 I code in React, JS, C, HTML, CSS.
-- I am excited about expanding my developer skills.
-- I also have been learning Salesforce development (Apex, SOQL and Lightning Web Components).
+- 👋 Hi, I’m Stephanie. It looks a bit quiet here because I am busy coding on my other account at my day job.
